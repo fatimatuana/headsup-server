@@ -18,7 +18,7 @@ var corsOptions = {
 
 app.use(cors(corsOptions));
 
-//test
+
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
