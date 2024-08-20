@@ -15,7 +15,7 @@ const cors = require("cors");
 var corsOptions = {
   origin: "http://localhost:8080"
 };
-
+// te
 app.use(cors(corsOptions));
 
 
