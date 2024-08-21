@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d95e6eb4d366dfb55430",
-    "url": "/css/app.5c3f2d53.css"
+    "revision": "7f2a7f75d39c4404196a",
+    "url": "/css/app.61f32ffc.css"
   },
   {
     "revision": "df14ee4db33f369144c1",
@@ -76,10 +76,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/categories/movies.png"
   },
   {
-    "revision": "282c6649d12c023f34a5fa7645dfdba1",
-    "url": "/img/categories/null.png"
-  },
-  {
     "revision": "20020f1f307921d35ec86e99f76e9f7a",
     "url": "/img/categories/series.png"
   },
@@ -112,67 +108,71 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/heads-up-title-ic.png"
   },
   {
-    "revision": "a91edbd59b43f812422d18b1662a2f35",
+    "revision": "6106b248215226da70c33cb32148f6c4",
     "url": "/img/icons/android-chrome-192x192.png"
   },
   {
-    "revision": "f6c4e6520f7f785399f4417bcd1c7be8",
+    "revision": "af391703be8f19a3ec30a5971737175b",
     "url": "/img/icons/android-chrome-512x512.png"
   },
   {
-    "revision": "a91edbd59b43f812422d18b1662a2f35",
+    "revision": "6106b248215226da70c33cb32148f6c4",
     "url": "/img/icons/android-chrome-maskable-192x192.png"
   },
   {
-    "revision": "f6c4e6520f7f785399f4417bcd1c7be8",
+    "revision": "af391703be8f19a3ec30a5971737175b",
     "url": "/img/icons/android-chrome-maskable-512x512.png"
   },
   {
-    "revision": "dc10cf114586df8569c988dbb9935e22",
+    "revision": "023d26be0f1f1e256feded45db8d4cc3",
     "url": "/img/icons/apple-touch-icon-120x120.png"
   },
   {
-    "revision": "f38b1b9cba21599d627b441c137a9180",
+    "revision": "287d7a922970aff706ee4bdf6cbb2376",
     "url": "/img/icons/apple-touch-icon-152x152.png"
   },
   {
-    "revision": "a2ec3c07d4044b880f70f622323532f6",
+    "revision": "d3b4e93fea4350d2f472ef0cb2d39979",
     "url": "/img/icons/apple-touch-icon-180x180.png"
   },
   {
-    "revision": "7e3029ae8ff04c983fa1c8a01845c6d0",
+    "revision": "9d648fdac66a4666abadcec054bcedbf",
     "url": "/img/icons/apple-touch-icon-60x60.png"
   },
   {
-    "revision": "7d5fc4b4c72892063dca17f69bad5b8c",
+    "revision": "372c7ea3976b6239de7fd8e4810e1019",
     "url": "/img/icons/apple-touch-icon-76x76.png"
   },
   {
-    "revision": "a2ec3c07d4044b880f70f622323532f6",
+    "revision": "d3b4e93fea4350d2f472ef0cb2d39979",
     "url": "/img/icons/apple-touch-icon.png"
   },
   {
-    "revision": "ab7b0d63ffab5ec0e3c03c7f22e2ceca",
+    "revision": "afa7d303c21b9602a18567cc4335be81",
     "url": "/img/icons/favicon-16x16.png"
   },
   {
-    "revision": "064f31c111e7107da205bba2d8d15a69",
+    "revision": "3ac453e87b832327437edd4b2817505d",
     "url": "/img/icons/favicon-32x32.png"
   },
   {
-    "revision": "bf770a277454843e7f488b62a30993bd",
+    "revision": "d7814fcedcaf060689d128bbe7656790",
     "url": "/img/icons/favicon.ico"
   },
   {
-    "revision": "6eb220d157bbd36acee7541f16fff75e",
+    "revision": "0e76e6cd244e676a7314c7b0edded986",
+    "url": "/img/icons/logo.png"
+  },
+  {
+    "revision": "66898157b82cf05595ad79a3a8758853",
     "url": "/img/icons/msapplication-icon-144x144.png"
   },
   {
-    "revision": "a214d201b78856e93585414dbfe44c55",
+    "revision": "f69667eee9423e795895b33e0b43dc61",
     "url": "/img/icons/mstile-150x150.png"
   },
   {
-    "revision": "52957b1c031c3f1067ce1147ef7db44a",
+    "revision": "d3cc30b9a78c6ba43dca2ddcd0429a83",
     "url": "/img/icons/safari-pinned-tab.svg"
   },
   {
@@ -180,12 +180,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/landing-page-bg.png"
   },
   {
-    "revision": "c39a67eac4a7d4f0a2d67f9e4dc45ca4",
+    "revision": "161bb724afc457c9dfaf6cb1ed758b48",
     "url": "/index.html"
   },
   {
-    "revision": "d95e6eb4d366dfb55430",
-    "url": "/js/app.4270ae03.js"
+    "revision": "7f2a7f75d39c4404196a",
+    "url": "/js/app.440af663.js"
   },
   {
     "revision": "df14ee4db33f369144c1",
